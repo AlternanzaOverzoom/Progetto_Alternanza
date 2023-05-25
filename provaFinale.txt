@@ -1,0 +1,4 @@
+Questa è lultima prova>provaFinale.txt
+
+
+git echo Questa è lultima prova
